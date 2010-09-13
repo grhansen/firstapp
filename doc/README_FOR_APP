@@ -2,3 +2,4 @@ Use this README file to introduce your application and point to useful places in
 Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
 
 Testing pushing a branch back to git.  This is a comment for the newfeature branch.
+This is a change in the newfeature branch and a push.
